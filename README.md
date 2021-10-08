@@ -2,9 +2,9 @@
 
 1. 'movies.sql' file contains the sql code for creating table, inserting values into table and some queries.
 
-2. 'dbconnect.php' file contains connection to XAMPP server.
+2. 'dbconnect.php' file connects XAMPP server to our project.
 
-3. 'index.php' file contains how to include databse connection to our project.
+3. 'index.php' file contains how we can include databse connection in any part of our project.
 
 • Languages and Tools- PHP, MySQL, XAMPP and Visual Studio Code.<br/><br/>
 <!-- <img src="https://user-images.githubusercontent.com/53591334/129520678-8c889c67-f0b8-4f7e-bd3a-fa7fbc0fa883.jpeg" width="300" height="550" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
