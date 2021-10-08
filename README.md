@@ -1,10 +1,10 @@
-### Movie-Database-MuleSoft
+## Movie Database MuleSoft
 
-1. 'movies.sql' .
+1. 'movies.sql' file contains the sql code for creating table, insering values into table and some queries.
 
-2. Firstly, the user who want to donate excess of his food so that to reduce the wastage and also to help the people who are in need of the food. Secondly, the user who want to request the food, who is badly in need of the food and cannot afford it.
+2. 'dbconnect.php' file contains connection to XAMPP server.
 
-3. “DontWaste” is a platform which aims at reducing the wastage of food and also in helping the mankind.
+3. 'index.php' file contains how to include databse connection to our project.
 
 • Languages and Tools- PHP, MySQL, XAMPP and Visual Studio Code.<br/><br/>
 <!-- <img src="https://user-images.githubusercontent.com/53591334/129520678-8c889c67-f0b8-4f7e-bd3a-fa7fbc0fa883.jpeg" width="300" height="550" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
