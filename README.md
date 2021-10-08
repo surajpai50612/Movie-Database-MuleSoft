@@ -6,9 +6,8 @@
 
 3. 'index.php' file contains how we can include database connection in any part of our project.
 
-<!-- <img src="https://user-images.githubusercontent.com/53591334/129520678-8c889c67-f0b8-4f7e-bd3a-fa7fbc0fa883.jpeg" width="300" height="550" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/53591334/129520728-44180a86-d8f3-4982-b921-8ece8258d214.jpeg" width="300" height="550" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><br/>
-<img src="https://user-images.githubusercontent.com/53591334/129520755-4b9019d6-2886-48e0-b7ce-a947a8a0bb29.jpeg" width="300" height="550" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/53591334/129520771-9ae496c9-e27f-44cd-b23b-aa725cde74b8.jpeg" width="300" height="550" /> -->
+Queries & Results:
 
+1. Retrieving all the attributes from 'movies' table
 
+![Screenshot (164)](https://user-images.githubusercontent.com/53591334/136576635-50d7c80c-a355-465c-b532-7c6c97cc7015.png)
