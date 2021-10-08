@@ -1,6 +1,6 @@
 ## Movie Database MuleSoft
 
-1. 'movies.sql' file contains the sql code for creating table, insering values into table and some queries.
+1. 'movies.sql' file contains the sql code for creating table, inserting values into table and some queries.
 
 2. 'dbconnect.php' file contains connection to XAMPP server.
 
