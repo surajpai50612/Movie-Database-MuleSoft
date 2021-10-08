@@ -6,7 +6,7 @@
 
 3. 'index.php' file contains how we can include database connection in any part of our project.
 
-Queries & Results:
+### Queries & Results:
 
 1. Retrieving all the attributes from 'movies' table
 
